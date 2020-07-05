@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Endramar/nextjs-react#readme",
   "dependencies": {
-    "nextjs": "0.0.3",
+    "next": "^9.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
